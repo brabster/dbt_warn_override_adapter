@@ -1,8 +1,8 @@
 # there's a bunch of metadata in here that might only really make sense in dbt cloud
 # In the deployments I've been involved with I've found that there's no discernable value in setting these values.
 # As such I set these parameters to generic values that line everything up in a given repo.
-name: example_package
-version: 0.0.1
+name: warn_override_adapter
+version: 1.0.0
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
